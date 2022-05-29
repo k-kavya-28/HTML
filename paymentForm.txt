@@ -1,0 +1,7 @@
+<!--web form-->
+<!--payment form-->
+<!--to collect data from user-->
+<!--eg. youtube comment section-->
+<!--The full form of PHP is Hypertext Preprocessor. It was abbreviated previously as Personal Home Page. It is a programming language widely used to build web applications or websites.-->
+<!--input types are text, password, radio, file, checkbox, submit, reset, image(user can click on the image and pass the information to the server)-->
+- input types : refer W3 schools
